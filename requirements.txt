@@ -1,0 +1,6 @@
+numpy==2.5.5
+pillow==13.0.0
+pygame-ce==2.5.8
+mediapipe==1.2.3
+opencv-contrib-python==5.1.0.95
+pyobjc-framework-AVFoundation==13.0; sys_platform == "darwin"

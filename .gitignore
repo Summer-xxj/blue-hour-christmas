@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.cache/
+.DS_Store
+启动日志.txt
+assets/hand_landmarker.task
+previews/empty.png
+previews/1.png
+previews/2.png
+previews/3.png
+previews/core.png

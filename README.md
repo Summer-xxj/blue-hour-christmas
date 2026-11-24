@@ -36,3 +36,5 @@ SDL_VIDEODRIVER=dummy .venv/bin/python celestial.py --smoke-test
 ```
 
 源码采用 MIT 许可。运行时下载的手势模型由 Google MediaPipe 提供，遵循其自身的许可。
+
+<!-- xxj-summer-zjl -->
